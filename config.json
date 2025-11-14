@@ -16,7 +16,7 @@
     "dbzy.tv": {
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "name": "🤹‍♂️┃豆瓣资源",
-      "detail": "dbzy.tv"
+      "detail": "https://dbzy.tv"
       "is_adult": true
     },
     "360zy": {
